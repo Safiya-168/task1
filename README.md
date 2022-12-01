@@ -1,1 +1,1 @@
-# GUI of scara Robot
+# GUI of Scara Robot
